@@ -4,7 +4,7 @@ collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2018-teaching-1
 venue: "Bilkent University, Computer Engineering"
-date: 2018
+date: 2018-01-01
 location: "Ankara, Turkey"
 ---
 

@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-fall-teaching-1
 venue: "KTH Royal Institute of Technology, EECS"
-date: 2020
+date: 2020-01-01
 location: "Stockholm, Sweden"
 ---
 <!-- 
